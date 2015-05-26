@@ -7,8 +7,8 @@ php5-curl
 
 unzip
 
-ffmpeg
-flvtool2
+libav-tools
+//flvtool2
 gpac
 libmp3lame-dev
 libtheora-dev
